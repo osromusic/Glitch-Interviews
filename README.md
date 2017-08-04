@@ -9,7 +9,7 @@ I am working on a project investigating Glitch Art and I am looking for  contrib
 **Who are Glitch Artists?** 
 > Anyone exploring functions of technologies beyond their intended design. Datamoshing, pixel sorting, and hex hacking certainly fit this description, but also circuit bending, creative coding, sonification and many other practices. Essentially I see "Glitch Artists" as anyone exploring processes or outcomes in technologies that reveal new truths, whether intentional or unintentional,  conscious or unconscious.
 
-So How Can I Help? (you ask yourself)
+**So How Can I Help? (you ask yourself)**
 
 I need submissions in any format (more details below) answering some or all of the interview questions. Currently I am working on a documentary, so your submissions may be used for that purpose. If I get a variety of responses and formats I may consider other mediums, like quotes or Podcasts or short videos, etc.
 
