@@ -17,6 +17,8 @@ I need submissions in any format (more details below) answering some or all of t
 
 Submissions can be in any format: video, audio, Voice Over, images, text; be creative! Glitch art, digital art, and creative submissions are encouraged. The only suggestion is to maintain the highest fidelity when recording, unless lofi is your goal. Nearly anything visual can be incorporated into video, but poor, low, or distorted dialog is difficult to incorporate.
 
+Please create a new Folder with your name inside the Submissions folder, and upload all your submissions to that folder. Please include an INFO.txt file with your name, information, and desired credit.
+
 
 ## Interview Questions
 
